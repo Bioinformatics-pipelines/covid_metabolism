@@ -4,6 +4,10 @@ This repository contains the code for performing the analyses in:
 
 Cheng et al. Genome-scale metabolic modeling reveals SARS-CoV-2-induced host metabolic reprogramming and identifies metabolic antiviral targets. bioRxiv.
 
+Paper by Nishanth Ulhas Nair, Sumit K Chanda,& Eytan Ruppin: https://www.embopress.org/doi/epdf/10.15252/msb.202110260
+Metabolic modeling package: https://github.com/Bioinformatics-pipelines/gembox
+
+
 ## 1. Prerequisites
 
 ### Softwares
